@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "Checkout page slow", "status": "open"},
+  {"id": 2, "title": "Login email delayed", "status": "resolved"},
+  {"id": 3, "title": "Search returns stale results", "status": "open"},
+]

@@ -7,3 +7,4 @@ HEALTHCHECK --interval=5s --timeout=3s --start-period=5s --retries=3 \
   CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:8080/health', timeout=2)"
 CMD ["python", "-u", "app.py"]
 
+
